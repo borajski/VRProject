@@ -1,2 +1,6 @@
+<<<<<<< .merge_file_a18072
 Danas je srijeda cijeli dan.
 Nisam znao.
+=======
+Danas je srijeda cijeli dan. A juler je bio utorak.
+>>>>>>> .merge_file_a15364
